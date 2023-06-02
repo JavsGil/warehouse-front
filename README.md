@@ -8,8 +8,7 @@ Asegúrate de tener los siguientes requisitos antes de levantar el proyecto:
 
 - Node.js (v18.16.0)
 - npm (9.5.1)
-- Back-end configurado y funcionando (proporcionado en otro repositorio o servicio externo)
-- Archivo `.env` con las configuraciones necesarias (consultar con el equipo de desarrollo del back-end)
+
 
 ## Pasos para Levantar el Proyecto
 
