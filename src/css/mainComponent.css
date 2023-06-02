@@ -1,0 +1,16 @@
+.navbar-link {
+  color: white;
+  text-decoration: none;
+  margin-right: 7px;
+  margin-left: 36px;
+  padding: 9px;
+}
+
+.navbar-button {
+  color: white;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  float: right;
+  margin-right: 88px;
+}
