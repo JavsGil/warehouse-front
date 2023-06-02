@@ -26,12 +26,13 @@ Una vez que el proyecto se haya compilado y el servidor local se haya iniciado c
 5. Usuarios 
  
 
-- Externo
+## Externo
 
 `user :` externo@gmail.com
 `password:`externo
 
-- Admin
+## Admin
+
 `user :` admin@gmail.com
 `password:`admin
 
